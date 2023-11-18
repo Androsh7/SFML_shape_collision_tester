@@ -1,4 +1,4 @@
 # shape_collision_tester
 
 
-Test
+Tests to see if any lines on two separate polygons intersect.
