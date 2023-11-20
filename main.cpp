@@ -1,24 +1,5 @@
-#include <SFML/Audio.hpp>
 #include <SFML/Graphics.hpp>
 #include <iostream>
-#include <math.h>
-#include <algorithm>
-
-
-
-float max(float a, float b) {
-    if (a >= b) {
-        return a;
-    }
-        return b;
-}
-
-float min(float a, float b) {
-    if (a <= b) {
-        return a;
-    }
-        return b;
-}
 
 
 struct line {
