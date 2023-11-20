@@ -1,4 +1,4 @@
-# shape_collision_demo
+# SFML_shape_collision_demo
 
 
 Using the SFML game library this program creates a moveable player, obstacle and goal polygons.
